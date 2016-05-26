@@ -53,10 +53,10 @@ class OurFamily():
 # message end
 # écrire les lignes suivantes pour faire tourner les fonctions
 
-mother = (mother,'Tiphaine', 'HUET')
-father = (father,'Benoit', 'MAILLOT')
-daughter = (daughter,'Hyaline Gwenaelle Alvinella', 'MAILLOT',6)
-newborn_name = (newborn_name,'Ewald','Ulysse','Asterias','MAILLOT')
-newborn_status = (newborn_status,'XX','YY','CHU')
+mother(mother,'Tiphaine', 'HUET')
+father(father,'Benoit', 'MAILLOT')
+daughter(daughter,'Hyaline Gwenaelle Alvinella', 'MAILLOT',6)
+newborn_name(newborn_name,'Ewald','Ulysse','Asterias','MAILLOT')
+newborn_status(newborn_status,'XX','YY','CHU')
 
 
